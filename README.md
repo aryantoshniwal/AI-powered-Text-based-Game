@@ -20,3 +20,4 @@ I’m considering expanding the game, adding more features, or maybe even collab
 #AI #Gaming #DeepLearning #FantasyGame #AIGame #LearningExperience
 
 Note: For every general i: Li.ipynb, requirementsi.txt, helperi.txt run these in one separate virtual environment and inside each env rename the files as: requirements.txt and helper.txt
+Dont forget to edit the API key, you can get one by registering on https://api.together.xyz/signin 
