@@ -9,5 +9,5 @@ def load_env():
 
 def get_together_api_key():
     # Return your hardcoded API key
-    together_api_key = "dcf499b20ea0bb648c1e66679cee413138ec35748693ff6d42059c3e45292bbe"
+    together_api_key = "write your api key here"
     return together_api_key
